@@ -24,3 +24,10 @@ C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\obj\Debug\net8.0\re
 C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\bas_b\Desktop\flutter app\Wakala2.0\wakala2\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CopyComplete

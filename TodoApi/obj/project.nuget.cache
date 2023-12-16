@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m5ZddjiAvbvArMmudUpG18gmoho5LmZe7eUMMN4rSQpPahh7A/rbK1XkDOY1Nh8X8hCQq+VqK3XCrIP23NRtAQ==",
+  "dgSpecHash": "zkSDkCw3ZnRCGOVEheMDVR/bLYvccVuPx+8rLN7lD0p/Zjh20O9P3QwrtjktCqcPEg2cZG1obR9tUVy48+vFSw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bas_b\\Desktop\\flutter app\\Wakala2.0\\wakala2\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\bas_b\\Desktop\\flutter app\\Wakala2.0\\wakala2\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bas_b\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\8.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\bas_b\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
